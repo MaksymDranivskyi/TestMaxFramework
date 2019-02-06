@@ -54,13 +54,11 @@ namespace TestMaxFramework.pages
             switchToDefaultContent();
             selectByValue(location, car.Location, 60); ;
             selectByValue(drop, car.Location, 60);
+            sleepFor(300);
             findElement(price, 30).SendKeys(car.Price.ToString());
             findElement(add).Click();
             Log.Information($"Car {car.Carname} profile created");
-            sleepFor(300);
         }
-
-
 
     }
 }
