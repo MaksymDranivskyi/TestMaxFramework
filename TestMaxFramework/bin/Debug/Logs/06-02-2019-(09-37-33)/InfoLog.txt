@@ -1,0 +1,9 @@
+[2019-02-06 09:37:33.518 +02:00] [INF] One Time Setup finished
+[2019-02-06 09:37:33.571 +02:00] [INF] Configuration finished
+[2019-02-06 09:37:44.715 +02:00] [INF] User By.XPath: //div/form[1]/div[1]/input[1] logined
+[2019-02-06 09:37:44.729 +02:00] [INF] Test set up
+[2019-02-06 09:37:54.511 +02:00] [INF] Start creating car profile...
+[2019-02-06 09:37:54.761 +02:00] [INF] Random data generated
+[2019-02-06 09:38:07.463 +02:00] [INF] Car Connelly - Auer profile created
+[2019-02-06 09:38:07.548 +02:00] [INF] Test tear down
+[2019-02-06 09:38:07.560 +02:00] [INF] One Time Tear Down

@@ -1,0 +1,32 @@
+[2019-02-06 04:59:03.701 +02:00] [INF] [] [] One Time Setup finished
+[2019-02-06 04:59:03.734 +02:00] [INF] [] [] Configuration finished
+[2019-02-06 04:59:23.574 +02:00] [DBG] [] [] Open this instance
+[2019-02-06 04:59:23.575 +02:00] [DBG] [] [] Thread sleep
+[2019-02-06 04:59:30.985 +02:00] [DBG] [] [] Finds the element
+[2019-02-06 04:59:30.987 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 04:59:31.236 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 04:59:33.760 +02:00] [DBG] [] [] Finds the element
+[2019-02-06 04:59:33.760 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 04:59:33.770 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 04:59:34.244 +02:00] [DBG] [] [] Click the specified element
+[2019-02-06 04:59:34.244 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 04:59:35.009 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 04:59:35.040 +02:00] [INF] [] [] Logined
+[2019-02-06 04:59:35.253 +02:00] [DBG] [] [] Open this instance
+[2019-02-06 04:59:35.253 +02:00] [DBG] [] [] Thread sleep
+[2019-02-06 04:59:40.549 +02:00] [DBG] [] [] Click the specified element
+[2019-02-06 04:59:40.550 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 04:59:43.356 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 04:59:45.614 +02:00] [DBG] [] [] Select element by index
+[2019-02-06 04:59:45.614 +02:00] [DBG] [] [] Finds the element
+[2019-02-06 04:59:45.614 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 04:59:46.717 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 04:59:47.117 +02:00] [DBG] [] [] Select element by index
+[2019-02-06 04:59:47.117 +02:00] [DBG] [] [] Finds the element
+[2019-02-06 04:59:47.117 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 04:59:47.126 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 04:59:47.333 +02:00] [DBG] [] [] Select element by string
+[2019-02-06 04:59:47.333 +02:00] [DBG] [] [] Finds the element
+[2019-02-06 04:59:47.333 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 04:59:47.341 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 04:59:48.054 +02:00] [INF] [] [] One Time Tear Down

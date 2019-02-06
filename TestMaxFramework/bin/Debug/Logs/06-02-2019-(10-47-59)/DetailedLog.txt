@@ -1,0 +1,20 @@
+[2019-02-06 10:47:59.937 +02:00] [INF] One Time Setup finished
+[2019-02-06 10:47:59.980 +02:00] [INF] Configuration finished
+[2019-02-06 10:48:03.484 +02:00] [DBG] Open this instance https://www.phptravels.net/supplier
+[2019-02-06 10:48:06.442 +02:00] [DBG] Finds the element By.XPath: //div/form[1]/div[1]/input[1]
+[2019-02-06 10:48:06.443 +02:00] [DBG] Waits for page to load
+[2019-02-06 10:48:06.475 +02:00] [DBG] Waits for page to load
+[2019-02-06 10:48:08.061 +02:00] [DBG] Finds the element By.Name: password
+[2019-02-06 10:48:08.061 +02:00] [DBG] Waits for page to load
+[2019-02-06 10:48:08.069 +02:00] [DBG] Waits for page to load
+[2019-02-06 10:48:08.365 +02:00] [DBG] Click the specified element By.XPath: //div/form[1]/button
+[2019-02-06 10:48:08.365 +02:00] [DBG] Waits for page to load
+[2019-02-06 10:48:08.678 +02:00] [DBG] Waits for page to load
+[2019-02-06 10:48:08.700 +02:00] [INF] User By.XPath: //div/form[1]/div[1]/input[1] logined
+[2019-02-06 10:48:08.708 +02:00] [INF] Test set up
+[2019-02-06 10:48:08.714 +02:00] [DBG] Open this instance https://www.phptravels.net/supplier/cars
+[2019-02-06 10:48:11.982 +02:00] [DBG] Click the specified element By.XPath: //div/form/button
+[2019-02-06 10:48:11.982 +02:00] [DBG] Waits for page to load
+[2019-02-06 10:48:13.930 +02:00] [DBG] Waits for page to load
+[2019-02-06 10:48:15.058 +02:00] [INF] Test tear down
+[2019-02-06 10:48:15.071 +02:00] [INF] One Time Tear Down

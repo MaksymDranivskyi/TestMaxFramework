@@ -1,0 +1,88 @@
+[2019-02-06 22:42:00.466 +02:00] [INF] One Time Setup finished
+[2019-02-06 22:42:00.499 +02:00] [INF] Configuration finished
+[2019-02-06 22:42:10.817 +02:00] [DBG] Open this instance https://www.phptravels.net/supplier
+[2019-02-06 22:42:14.958 +02:00] [DBG] Finds the element By.XPath: //div/form[1]/div[1]/input[1]
+[2019-02-06 22:42:14.959 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:42:14.990 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:42:16.547 +02:00] [DBG] Finds the element By.Name: password
+[2019-02-06 22:42:16.547 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:42:16.559 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:42:16.912 +02:00] [DBG] Click the specified element By.XPath: //div/form[1]/button
+[2019-02-06 22:42:16.912 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:42:17.237 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:42:17.251 +02:00] [INF] User By.XPath: //div/form[1]/div[1]/input[1] logined
+[2019-02-06 22:42:17.256 +02:00] [INF] Test set up
+[2019-02-06 22:42:17.259 +02:00] [INF] Add car test starting...
+[2019-02-06 22:42:17.259 +02:00] [DBG] Open this instance https://www.phptravels.net/supplier/cars
+[2019-02-06 22:42:26.241 +02:00] [DBG] Click the specified element By.XPath: //div/form/button
+[2019-02-06 22:42:26.241 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:42:39.392 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:42:39.421 +02:00] [INF] Start creating car profile...
+[2019-02-06 22:42:42.095 +02:00] [INF] Random data generated
+[2019-02-06 22:42:42.096 +02:00] [DBG] Select element By.Name: passangers by index 2
+[2019-02-06 22:42:42.096 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:43:12.124 +02:00] [INF] Select element exception
+[2019-02-06 22:43:12.124 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:43:12.155 +02:00] [DBG] Select element By.Name: doors by index 0
+[2019-02-06 22:43:12.155 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:43:42.187 +02:00] [INF] Select element exception
+[2019-02-06 22:43:42.187 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:43:42.205 +02:00] [DBG] Select element By.Name: transmission by string Manual
+[2019-02-06 22:43:42.205 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:44:12.281 +02:00] [INF] Select element exception
+[2019-02-06 22:44:12.281 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:44:12.313 +02:00] [DBG] Finds the element By.Name: carname
+[2019-02-06 22:44:12.313 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:44:12.322 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:44:42.578 +02:00] [INF] Test tear down
+[2019-02-06 22:44:42.578 +02:00] [INF] Test set up
+[2019-02-06 22:44:42.579 +02:00] [INF] Delete car test starting...
+[2019-02-06 22:44:42.579 +02:00] [DBG] Open this instance https://www.phptravels.net/supplier/cars
+[2019-02-06 22:44:45.043 +02:00] [DBG] Click the specified element By.XPath: //div/form/button
+[2019-02-06 22:44:45.043 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:44:48.624 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:44:48.699 +02:00] [INF] Start creating car profile...
+[2019-02-06 22:44:48.709 +02:00] [INF] Random data generated
+[2019-02-06 22:44:48.709 +02:00] [DBG] Select element By.Name: passangers by index 1
+[2019-02-06 22:44:48.709 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:45:18.795 +02:00] [INF] Select element exception
+[2019-02-06 22:45:18.795 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:45:18.819 +02:00] [DBG] Select element By.Name: doors by index 2
+[2019-02-06 22:45:18.819 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:45:48.851 +02:00] [INF] Select element exception
+[2019-02-06 22:45:48.851 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:45:48.863 +02:00] [DBG] Select element By.Name: transmission by string Auto
+[2019-02-06 22:45:48.863 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:46:18.895 +02:00] [INF] Select element exception
+[2019-02-06 22:46:18.896 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:46:18.913 +02:00] [DBG] Finds the element By.Name: carname
+[2019-02-06 22:46:18.914 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:46:18.928 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:46:49.046 +02:00] [INF] Test tear down
+[2019-02-06 22:46:49.057 +02:00] [INF] Test set up
+[2019-02-06 22:46:49.058 +02:00] [INF] Profile update test starting...
+[2019-02-06 22:46:49.059 +02:00] [DBG] Open this instance https://www.phptravels.net/supplier/profile
+[2019-02-06 22:46:51.943 +02:00] [INF] Start updating user profile...
+[2019-02-06 22:46:51.943 +02:00] [DBG] Finds the element By.Name: fname
+[2019-02-06 22:46:51.943 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:46:52.137 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:46:52.699 +02:00] [DBG] Finds the element By.Name: lname
+[2019-02-06 22:46:52.699 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:46:52.853 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:46:53.568 +02:00] [DBG] Finds the element By.Name: mobile
+[2019-02-06 22:46:53.568 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:46:53.578 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:46:53.970 +02:00] [DBG] Previous data was cleaned
+[2019-02-06 22:46:54.110 +02:00] [DBG] Finds the element By.Name: fname
+[2019-02-06 22:46:54.110 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:46:54.135 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:46:55.685 +02:00] [DBG] Finds the element By.Name: lname
+[2019-02-06 22:46:55.685 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:46:55.698 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:46:56.019 +02:00] [DBG] Finds the element By.Name: mobile
+[2019-02-06 22:46:56.019 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:46:56.032 +02:00] [DBG] Waits for page to load
+[2019-02-06 22:46:57.916 +02:00] [INF] User Bert Schaden profile updated
+[2019-02-06 22:46:57.917 +02:00] [INF] Profile update test finished
+[2019-02-06 22:46:57.917 +02:00] [INF] Test tear down
+[2019-02-06 22:46:57.966 +02:00] [INF] One Time Tear Down

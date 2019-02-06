@@ -1,0 +1,24 @@
+[2019-02-06 22:34:57.582 +02:00] [INF] One Time Setup finished
+[2019-02-06 22:34:57.622 +02:00] [INF] Configuration finished
+[2019-02-06 22:35:08.821 +02:00] [INF] User By.XPath: //div/form[1]/div[1]/input[1] logined
+[2019-02-06 22:35:08.834 +02:00] [INF] Test set up
+[2019-02-06 22:35:08.840 +02:00] [INF] Add car test starting...
+[2019-02-06 22:35:16.871 +02:00] [INF] Start creating car profile...
+[2019-02-06 22:35:17.365 +02:00] [INF] Random data generated
+[2019-02-06 22:35:28.408 +02:00] [INF] Car Donnelly Group profile created
+[2019-02-06 22:35:28.711 +02:00] [INF] Add car test finished
+[2019-02-06 22:35:28.713 +02:00] [INF] Test tear down
+[2019-02-06 22:35:28.746 +02:00] [INF] Test set up
+[2019-02-06 22:35:28.747 +02:00] [INF] Delete car test starting...
+[2019-02-06 22:35:33.153 +02:00] [INF] Start creating car profile...
+[2019-02-06 22:35:33.165 +02:00] [INF] Random data generated
+[2019-02-06 22:35:42.834 +02:00] [INF] Car Boyle LLC profile created
+[2019-02-06 22:35:46.552 +02:00] [INF] Delete car test finished
+[2019-02-06 22:35:46.552 +02:00] [INF] Test tear down
+[2019-02-06 22:35:46.585 +02:00] [INF] Test set up
+[2019-02-06 22:35:46.588 +02:00] [INF] Profile update test starting...
+[2019-02-06 22:35:48.001 +02:00] [INF] Start updating user profile...
+[2019-02-06 22:35:51.563 +02:00] [INF] User Isabel Effertz profile updated
+[2019-02-06 22:35:51.563 +02:00] [INF] Profile update test finished
+[2019-02-06 22:35:51.563 +02:00] [INF] Test tear down
+[2019-02-06 22:35:51.571 +02:00] [INF] One Time Tear Down

@@ -1,0 +1,24 @@
+[2019-02-06 22:55:07.853 +02:00] [INF] One Time Setup finished
+[2019-02-06 22:55:07.884 +02:00] [INF] Configuration finished
+[2019-02-06 22:55:22.395 +02:00] [INF] User By.XPath: //div/form[1]/div[1]/input[1] logined
+[2019-02-06 22:55:22.399 +02:00] [INF] Test set up
+[2019-02-06 22:55:22.400 +02:00] [INF] Profile update test starting...
+[2019-02-06 22:55:33.196 +02:00] [INF] Start updating user profile...
+[2019-02-06 22:55:40.100 +02:00] [INF] User Violet Homenick profile updated
+[2019-02-06 22:55:40.113 +02:00] [INF] Profile update test finished
+[2019-02-06 22:55:40.115 +02:00] [INF] Test tear down
+[2019-02-06 22:55:40.121 +02:00] [INF] Test set up
+[2019-02-06 22:55:40.125 +02:00] [INF] Add car test starting...
+[2019-02-06 22:55:45.591 +02:00] [INF] Start creating car profile...
+[2019-02-06 22:55:45.615 +02:00] [INF] Random data generated
+[2019-02-06 22:55:55.498 +02:00] [INF] Car Cronin - O'Connell profile created
+[2019-02-06 22:55:55.800 +02:00] [INF] Add car test finished
+[2019-02-06 22:55:55.800 +02:00] [INF] Test tear down
+[2019-02-06 22:55:55.833 +02:00] [INF] Test set up
+[2019-02-06 22:55:55.835 +02:00] [INF] Delete car test starting...
+[2019-02-06 22:56:00.553 +02:00] [INF] Start creating car profile...
+[2019-02-06 22:56:00.562 +02:00] [INF] Random data generated
+[2019-02-06 22:56:11.652 +02:00] [INF] Car Waters - Kreiger profile created
+[2019-02-06 22:56:15.247 +02:00] [INF] Delete car test finished
+[2019-02-06 22:56:15.247 +02:00] [INF] Test tear down
+[2019-02-06 22:56:15.249 +02:00] [INF] One Time Tear Down

@@ -1,0 +1,13 @@
+[2019-02-06 09:49:30.869 +02:00] [INF] One Time Setup finished
+[2019-02-06 09:49:30.906 +02:00] [INF] Configuration finished
+[2019-02-06 09:49:39.420 +02:00] [INF] User By.XPath: //div/form[1]/div[1]/input[1] logined
+[2019-02-06 09:49:39.435 +02:00] [INF] Test set up
+[2019-02-06 09:49:46.105 +02:00] [INF] Start creating car profile...
+[2019-02-06 09:49:46.642 +02:00] [INF] Random data generated
+[2019-02-06 09:49:56.032 +02:00] [INF] Car Murray - Marvin profile created
+[2019-02-06 09:49:56.034 +02:00] [INF] Test tear down
+[2019-02-06 09:49:56.043 +02:00] [INF] Test set up
+[2019-02-06 09:49:57.088 +02:00] [INF] Start updating user profile...
+[2019-02-06 09:50:00.504 +02:00] [INF] User Casey Robel profile updated
+[2019-02-06 09:50:00.505 +02:00] [INF] Test tear down
+[2019-02-06 09:50:00.509 +02:00] [INF] One Time Tear Down

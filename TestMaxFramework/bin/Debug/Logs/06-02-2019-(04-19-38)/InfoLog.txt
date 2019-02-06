@@ -1,0 +1,4 @@
+[2019-02-06 04:19:39.011 +02:00] [INF] [] [] One Time Setup finished
+[2019-02-06 04:19:39.081 +02:00] [INF] [] [] Configuration finished
+[2019-02-06 04:20:28.929 +02:00] [INF] [] [] Logined
+[2019-02-06 04:21:10.483 +02:00] [INF] [] [] One Time Tear Down

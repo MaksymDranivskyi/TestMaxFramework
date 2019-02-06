@@ -1,0 +1,11 @@
+[2019-02-06 22:47:15.795 +02:00] [INF] One Time Setup finished
+[2019-02-06 22:47:15.825 +02:00] [INF] Configuration finished
+[2019-02-06 22:47:27.872 +02:00] [INF] User By.XPath: //div/form[1]/div[1]/input[1] logined
+[2019-02-06 22:47:27.880 +02:00] [INF] Test set up
+[2019-02-06 22:47:27.887 +02:00] [INF] Add car test starting...
+[2019-02-06 22:47:38.171 +02:00] [INF] Start creating car profile...
+[2019-02-06 22:47:38.687 +02:00] [INF] Random data generated
+[2019-02-06 22:47:50.667 +02:00] [INF] Car Lebsack - Shields profile created
+[2019-02-06 22:47:50.968 +02:00] [INF] Add car test finished
+[2019-02-06 22:47:50.969 +02:00] [INF] Test tear down
+[2019-02-06 22:47:51.023 +02:00] [INF] One Time Tear Down

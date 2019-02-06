@@ -1,0 +1,62 @@
+[2019-02-06 09:27:43.549 +02:00] [INF] One Time Setup finished
+[2019-02-06 09:27:43.582 +02:00] [INF] Configuration finished
+[2019-02-06 09:27:49.727 +02:00] [DBG] Open this instance https://www.phptravels.net/supplier
+[2019-02-06 09:27:49.728 +02:00] [DBG] Thread sleep 3000
+[2019-02-06 09:27:54.285 +02:00] [DBG] Finds the element
+[2019-02-06 09:27:54.286 +02:00] [DBG] Waits for page to load
+[2019-02-06 09:27:54.335 +02:00] [DBG] Waits for page to load
+[2019-02-06 09:27:55.993 +02:00] [DBG] Finds the element
+[2019-02-06 09:27:55.993 +02:00] [DBG] Waits for page to load
+[2019-02-06 09:27:56.001 +02:00] [DBG] Waits for page to load
+[2019-02-06 09:27:56.326 +02:00] [DBG] Click the specified element
+[2019-02-06 09:27:56.327 +02:00] [DBG] Waits for page to load
+[2019-02-06 09:27:56.625 +02:00] [DBG] Waits for page to load
+[2019-02-06 09:27:56.648 +02:00] [INF] Logined
+[2019-02-06 09:27:56.655 +02:00] [INF] Test set up
+[2019-02-06 09:27:56.739 +02:00] [DBG] Open this instance https://www.phptravels.net/supplier/cars
+[2019-02-06 09:27:56.739 +02:00] [DBG] Thread sleep 3000
+[2019-02-06 09:28:07.869 +02:00] [DBG] Click the specified element
+[2019-02-06 09:28:07.869 +02:00] [DBG] Waits for page to load
+[2019-02-06 09:28:12.129 +02:00] [DBG] Waits for page to load
+[2019-02-06 09:28:12.342 +02:00] [INF] Start creating car profile...
+[2019-02-06 09:28:15.360 +02:00] [INF] Random data generated
+[2019-02-06 09:28:15.360 +02:00] [DBG] Select element By.Name: passangers by index 1
+[2019-02-06 09:28:15.360 +02:00] [DBG] Finds the element
+[2019-02-06 09:28:15.360 +02:00] [DBG] Waits for page to load
+[2019-02-06 09:28:15.386 +02:00] [DBG] Waits for page to load
+[2019-02-06 09:28:20.889 +02:00] [DBG] Select element By.Name: doors by index 2
+[2019-02-06 09:28:20.889 +02:00] [DBG] Finds the element
+[2019-02-06 09:28:20.889 +02:00] [DBG] Waits for page to load
+[2019-02-06 09:28:20.903 +02:00] [DBG] Waits for page to load
+[2019-02-06 09:28:21.415 +02:00] [DBG] Select element by string
+[2019-02-06 09:28:21.415 +02:00] [DBG] Finds the element
+[2019-02-06 09:28:21.415 +02:00] [DBG] Waits for page to load
+[2019-02-06 09:28:21.423 +02:00] [DBG] Waits for page to load
+[2019-02-06 09:28:21.698 +02:00] [DBG] Switchs to frame
+[2019-02-06 09:28:21.698 +02:00] [DBG] Finds the element
+[2019-02-06 09:28:21.698 +02:00] [DBG] Waits for page to load
+[2019-02-06 09:28:21.705 +02:00] [DBG] Waits for page to load
+[2019-02-06 09:28:21.898 +02:00] [DBG] Finds the element
+[2019-02-06 09:28:21.898 +02:00] [DBG] Waits for page to load
+[2019-02-06 09:28:21.906 +02:00] [DBG] Waits for page to load
+[2019-02-06 09:28:22.617 +02:00] [DBG] Switchs the content of the to default
+[2019-02-06 09:28:22.622 +02:00] [DBG] Finds the element
+[2019-02-06 09:28:22.622 +02:00] [DBG] Waits for page to load
+[2019-02-06 09:28:22.631 +02:00] [DBG] Waits for page to load
+[2019-02-06 09:28:24.426 +02:00] [DBG] Select dropdown item by three letters
+[2019-02-06 09:28:24.427 +02:00] [DBG] Click the specified element
+[2019-02-06 09:28:24.427 +02:00] [DBG] Waits for page to load
+[2019-02-06 09:28:24.717 +02:00] [DBG] Waits for page to load
+[2019-02-06 09:28:24.738 +02:00] [DBG] Thread sleep 600
+[2019-02-06 09:28:25.339 +02:00] [DBG] Finds the element
+[2019-02-06 09:28:25.339 +02:00] [DBG] Waits for page to load
+[2019-02-06 09:28:25.347 +02:00] [DBG] Waits for page to load
+[2019-02-06 09:28:25.683 +02:00] [DBG] Thread sleep 600
+[2019-02-06 09:28:26.284 +02:00] [DBG] Finds the element
+[2019-02-06 09:28:26.284 +02:00] [DBG] Waits for page to load
+[2019-02-06 09:28:26.297 +02:00] [DBG] Waits for page to load
+[2019-02-06 09:28:26.419 +02:00] [DBG] Select dropdown item by three letters
+[2019-02-06 09:28:26.419 +02:00] [DBG] Click the specified element
+[2019-02-06 09:28:26.419 +02:00] [DBG] Waits for page to load
+[2019-02-06 09:28:29.700 +02:00] [INF] Test tear down
+[2019-02-06 09:28:29.714 +02:00] [INF] One Time Tear Down

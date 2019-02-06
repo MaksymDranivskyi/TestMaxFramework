@@ -1,0 +1,75 @@
+[2019-02-06 21:57:35.146 +02:00] [INF] One Time Setup finished
+[2019-02-06 21:57:35.182 +02:00] [INF] Configuration finished
+[2019-02-06 21:57:39.547 +02:00] [DBG] Open this instance https://www.phptravels.net/supplier
+[2019-02-06 21:57:42.300 +02:00] [DBG] Finds the element By.XPath: //div/form[1]/div[1]/input[1]
+[2019-02-06 21:57:42.301 +02:00] [DBG] Waits for page to load
+[2019-02-06 21:57:42.333 +02:00] [DBG] Waits for page to load
+[2019-02-06 21:57:43.986 +02:00] [DBG] Finds the element By.Name: password
+[2019-02-06 21:57:43.986 +02:00] [DBG] Waits for page to load
+[2019-02-06 21:57:44.000 +02:00] [DBG] Waits for page to load
+[2019-02-06 21:57:44.393 +02:00] [DBG] Click the specified element By.XPath: //div/form[1]/button
+[2019-02-06 21:57:44.393 +02:00] [DBG] Waits for page to load
+[2019-02-06 21:57:44.659 +02:00] [DBG] Waits for page to load
+[2019-02-06 21:57:44.675 +02:00] [INF] User By.XPath: //div/form[1]/div[1]/input[1] logined
+[2019-02-06 21:57:44.685 +02:00] [INF] Test set up
+[2019-02-06 21:57:44.693 +02:00] [DBG] Open this instance https://www.phptravels.net/supplier/cars
+[2019-02-06 21:57:48.855 +02:00] [DBG] Click the specified element By.XPath: //div/form/button
+[2019-02-06 21:57:48.855 +02:00] [DBG] Waits for page to load
+[2019-02-06 21:58:00.219 +02:00] [DBG] Waits for page to load
+[2019-02-06 21:58:00.231 +02:00] [INF] Start creating car profile...
+[2019-02-06 21:58:00.541 +02:00] [INF] Random data generated
+[2019-02-06 21:58:00.542 +02:00] [DBG] Select element By.Name: passangers by index 0
+[2019-02-06 21:58:00.542 +02:00] [DBG] Finds the element By.Name: passangers
+[2019-02-06 21:58:00.542 +02:00] [DBG] Waits for page to load
+[2019-02-06 21:58:02.512 +02:00] [DBG] Waits for page to load
+[2019-02-06 21:58:15.753 +02:00] [DBG] Select element By.Name: doors by index 2
+[2019-02-06 21:58:15.753 +02:00] [DBG] Finds the element By.Name: doors
+[2019-02-06 21:58:15.753 +02:00] [DBG] Waits for page to load
+[2019-02-06 21:58:15.762 +02:00] [DBG] Waits for page to load
+[2019-02-06 21:58:16.935 +02:00] [DBG] Select element By.Name: transmission by string Manual
+[2019-02-06 21:58:16.935 +02:00] [DBG] Finds the element By.Name: transmission
+[2019-02-06 21:58:16.935 +02:00] [DBG] Waits for page to load
+[2019-02-06 21:58:16.949 +02:00] [DBG] Waits for page to load
+[2019-02-06 21:58:17.479 +02:00] [DBG] Finds the element By.Name: carname
+[2019-02-06 21:58:17.479 +02:00] [DBG] Waits for page to load
+[2019-02-06 21:58:17.490 +02:00] [DBG] Waits for page to load
+[2019-02-06 21:58:19.074 +02:00] [DBG] Switchs to frame By.XPath: //*[@id='cke_1_contents']/iframe
+[2019-02-06 21:58:19.075 +02:00] [DBG] Finds the element By.XPath: //*[@id='cke_1_contents']/iframe
+[2019-02-06 21:58:19.075 +02:00] [DBG] Waits for page to load
+[2019-02-06 21:58:19.085 +02:00] [DBG] Waits for page to load
+[2019-02-06 21:58:19.361 +02:00] [DBG] Finds the element By.ClassName[Contains]: cke_editable
+[2019-02-06 21:58:19.361 +02:00] [DBG] Waits for page to load
+[2019-02-06 21:58:19.368 +02:00] [DBG] Waits for page to load
+[2019-02-06 21:58:19.934 +02:00] [DBG] Switchs the content of the to default
+[2019-02-06 21:58:19.951 +02:00] [DBG] Select dropdown item By.XPath: //*[@id='s2id_pickuplocationlist1']/a/span[1] by three letters London
+[2019-02-06 21:58:19.952 +02:00] [DBG] Click the specified element By.XPath: //*[@id='s2id_pickuplocationlist1']/a/span[1]
+[2019-02-06 21:58:19.952 +02:00] [DBG] Waits for page to load
+[2019-02-06 21:58:20.345 +02:00] [DBG] Waits for page to load
+[2019-02-06 21:58:20.356 +02:00] [DBG] Thread sleep 600
+[2019-02-06 21:58:20.957 +02:00] [DBG] Finds the element By.ClassName[Contains]: select2-focused
+[2019-02-06 21:58:20.957 +02:00] [DBG] Waits for page to load
+[2019-02-06 21:58:20.964 +02:00] [DBG] Waits for page to load
+[2019-02-06 21:58:21.359 +02:00] [DBG] Thread sleep 600
+[2019-02-06 21:58:21.960 +02:00] [DBG] Finds the element By.ClassName[Contains]: select2-focused
+[2019-02-06 21:58:21.960 +02:00] [DBG] Waits for page to load
+[2019-02-06 21:58:21.966 +02:00] [DBG] Waits for page to load
+[2019-02-06 21:58:22.103 +02:00] [DBG] Select dropdown item By.XPath: //*[@id='s2id_dropofflocationlist1']/a/span[1] by three letters London
+[2019-02-06 21:58:22.103 +02:00] [DBG] Click the specified element By.XPath: //*[@id='s2id_dropofflocationlist1']/a/span[1]
+[2019-02-06 21:58:22.103 +02:00] [DBG] Waits for page to load
+[2019-02-06 21:58:22.495 +02:00] [DBG] Waits for page to load
+[2019-02-06 21:58:22.506 +02:00] [DBG] Thread sleep 600
+[2019-02-06 21:58:23.107 +02:00] [DBG] Finds the element By.ClassName[Contains]: select2-focused
+[2019-02-06 21:58:23.107 +02:00] [DBG] Waits for page to load
+[2019-02-06 21:58:23.116 +02:00] [DBG] Waits for page to load
+[2019-02-06 21:58:23.516 +02:00] [DBG] Thread sleep 600
+[2019-02-06 21:58:24.117 +02:00] [DBG] Finds the element By.ClassName[Contains]: select2-focused
+[2019-02-06 21:58:24.117 +02:00] [DBG] Waits for page to load
+[2019-02-06 21:58:24.129 +02:00] [DBG] Waits for page to load
+[2019-02-06 21:58:24.245 +02:00] [DBG] Finds the element By.Name: locations[1][price]
+[2019-02-06 21:58:24.245 +02:00] [DBG] Waits for page to load
+[2019-02-06 21:58:24.257 +02:00] [DBG] Waits for page to load
+[2019-02-06 21:58:24.658 +02:00] [DBG] Finds the element By.Id: add
+[2019-02-06 21:58:24.658 +02:00] [DBG] Waits for page to load
+[2019-02-06 21:58:24.668 +02:00] [DBG] Waits for page to load
+[2019-02-06 21:58:25.105 +02:00] [INF] Test tear down
+[2019-02-06 21:58:25.122 +02:00] [INF] One Time Tear Down

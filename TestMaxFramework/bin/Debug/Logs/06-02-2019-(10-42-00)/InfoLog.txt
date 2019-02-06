@@ -1,0 +1,26 @@
+[2019-02-06 22:42:00.466 +02:00] [INF] One Time Setup finished
+[2019-02-06 22:42:00.499 +02:00] [INF] Configuration finished
+[2019-02-06 22:42:17.251 +02:00] [INF] User By.XPath: //div/form[1]/div[1]/input[1] logined
+[2019-02-06 22:42:17.256 +02:00] [INF] Test set up
+[2019-02-06 22:42:17.259 +02:00] [INF] Add car test starting...
+[2019-02-06 22:42:39.421 +02:00] [INF] Start creating car profile...
+[2019-02-06 22:42:42.095 +02:00] [INF] Random data generated
+[2019-02-06 22:43:12.124 +02:00] [INF] Select element exception
+[2019-02-06 22:43:42.187 +02:00] [INF] Select element exception
+[2019-02-06 22:44:12.281 +02:00] [INF] Select element exception
+[2019-02-06 22:44:42.578 +02:00] [INF] Test tear down
+[2019-02-06 22:44:42.578 +02:00] [INF] Test set up
+[2019-02-06 22:44:42.579 +02:00] [INF] Delete car test starting...
+[2019-02-06 22:44:48.699 +02:00] [INF] Start creating car profile...
+[2019-02-06 22:44:48.709 +02:00] [INF] Random data generated
+[2019-02-06 22:45:18.795 +02:00] [INF] Select element exception
+[2019-02-06 22:45:48.851 +02:00] [INF] Select element exception
+[2019-02-06 22:46:18.895 +02:00] [INF] Select element exception
+[2019-02-06 22:46:49.046 +02:00] [INF] Test tear down
+[2019-02-06 22:46:49.057 +02:00] [INF] Test set up
+[2019-02-06 22:46:49.058 +02:00] [INF] Profile update test starting...
+[2019-02-06 22:46:51.943 +02:00] [INF] Start updating user profile...
+[2019-02-06 22:46:57.916 +02:00] [INF] User Bert Schaden profile updated
+[2019-02-06 22:46:57.917 +02:00] [INF] Profile update test finished
+[2019-02-06 22:46:57.917 +02:00] [INF] Test tear down
+[2019-02-06 22:46:57.966 +02:00] [INF] One Time Tear Down

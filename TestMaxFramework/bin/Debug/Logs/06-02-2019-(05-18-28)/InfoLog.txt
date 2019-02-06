@@ -1,0 +1,9 @@
+[2019-02-06 05:18:28.242 +02:00] [INF] One Time Setup finished
+[2019-02-06 05:18:28.289 +02:00] [INF] Configuration finished
+[2019-02-06 05:18:41.136 +02:00] [INF] Logined
+[2019-02-06 05:18:41.145 +02:00] [INF] Test set up
+[2019-02-06 05:18:48.556 +02:00] [INF] Start creating car profile...
+[2019-02-06 05:18:49.058 +02:00] [INF] Random data generated
+[2019-02-06 05:18:58.098 +02:00] [INF] Car profile created
+[2019-02-06 05:18:58.100 +02:00] [INF] Test tear down
+[2019-02-06 05:18:58.108 +02:00] [INF] One Time Tear Down

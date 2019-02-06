@@ -1,0 +1,24 @@
+[2019-02-06 22:49:40.151 +02:00] [INF] One Time Setup finished
+[2019-02-06 22:49:40.183 +02:00] [INF] Configuration finished
+[2019-02-06 22:49:50.765 +02:00] [INF] User By.XPath: //div/form[1]/div[1]/input[1] logined
+[2019-02-06 22:49:50.776 +02:00] [INF] Test set up
+[2019-02-06 22:49:50.779 +02:00] [INF] Add car test starting...
+[2019-02-06 22:50:01.089 +02:00] [INF] Start creating car profile...
+[2019-02-06 22:50:01.451 +02:00] [INF] Random data generated
+[2019-02-06 22:50:12.850 +02:00] [INF] Car Larkin - Jacobi profile created
+[2019-02-06 22:50:13.151 +02:00] [INF] Add car test finished
+[2019-02-06 22:50:13.152 +02:00] [INF] Test tear down
+[2019-02-06 22:50:13.152 +02:00] [INF] Test set up
+[2019-02-06 22:50:13.152 +02:00] [INF] Delete car test starting...
+[2019-02-06 22:50:17.999 +02:00] [INF] Start creating car profile...
+[2019-02-06 22:50:18.008 +02:00] [INF] Random data generated
+[2019-02-06 22:50:28.419 +02:00] [INF] Car Fay, Bradtke and Goyette profile created
+[2019-02-06 22:50:31.669 +02:00] [INF] Delete car test finished
+[2019-02-06 22:50:31.669 +02:00] [INF] Test tear down
+[2019-02-06 22:50:31.670 +02:00] [INF] Test set up
+[2019-02-06 22:50:31.671 +02:00] [INF] Profile update test starting...
+[2019-02-06 22:50:32.804 +02:00] [INF] Start updating user profile...
+[2019-02-06 22:50:37.680 +02:00] [INF] User Brandt Marquardt profile updated
+[2019-02-06 22:50:37.681 +02:00] [INF] Profile update test finished
+[2019-02-06 22:50:37.681 +02:00] [INF] Test tear down
+[2019-02-06 22:50:37.682 +02:00] [INF] One Time Tear Down

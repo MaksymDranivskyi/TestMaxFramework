@@ -1,0 +1,73 @@
+[2019-02-06 05:02:31.091 +02:00] [INF] [] [] One Time Setup finished
+[2019-02-06 05:02:31.129 +02:00] [INF] [] [] Configuration finished
+[2019-02-06 05:02:38.735 +02:00] [DBG] [] [] Open this instance
+[2019-02-06 05:02:38.735 +02:00] [DBG] [] [] Thread sleep
+[2019-02-06 05:02:43.174 +02:00] [DBG] [] [] Finds the element
+[2019-02-06 05:02:43.175 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 05:02:43.202 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 05:02:45.490 +02:00] [DBG] [] [] Finds the element
+[2019-02-06 05:02:45.490 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 05:02:45.499 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 05:02:45.850 +02:00] [DBG] [] [] Click the specified element
+[2019-02-06 05:02:45.851 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 05:02:46.222 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 05:02:46.238 +02:00] [INF] [] [] Logined
+[2019-02-06 05:02:46.260 +02:00] [DBG] [] [] Open this instance
+[2019-02-06 05:02:46.260 +02:00] [DBG] [] [] Thread sleep
+[2019-02-06 05:02:54.552 +02:00] [DBG] [] [] Click the specified element
+[2019-02-06 05:02:54.552 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 05:02:57.321 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 05:02:57.798 +02:00] [DBG] [] [] Select element by index
+[2019-02-06 05:02:57.798 +02:00] [DBG] [] [] Finds the element
+[2019-02-06 05:02:57.798 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 05:02:57.804 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 05:02:58.403 +02:00] [DBG] [] [] Select element by index
+[2019-02-06 05:02:58.403 +02:00] [DBG] [] [] Finds the element
+[2019-02-06 05:02:58.403 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 05:02:58.417 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 05:02:58.942 +02:00] [DBG] [] [] Select element by string
+[2019-02-06 05:02:58.942 +02:00] [DBG] [] [] Finds the element
+[2019-02-06 05:02:58.942 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 05:02:58.951 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 05:03:06.776 +02:00] [DBG] [] [] Switchs to frame
+[2019-02-06 05:03:06.777 +02:00] [DBG] [] [] Finds the element
+[2019-02-06 05:03:06.777 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 05:03:06.787 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 05:03:07.178 +02:00] [DBG] [] [] Finds the element
+[2019-02-06 05:03:07.178 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 05:03:07.187 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 05:03:07.875 +02:00] [DBG] [] [] Switchs the content of the to default
+[2019-02-06 05:03:07.879 +02:00] [DBG] [] [] Finds the element
+[2019-02-06 05:03:07.879 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 05:03:07.892 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 05:03:09.444 +02:00] [DBG] [] [] Select dropdown item by three letters
+[2019-02-06 05:03:09.444 +02:00] [DBG] [] [] Click the specified element
+[2019-02-06 05:03:09.444 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 05:03:09.990 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 05:03:10.011 +02:00] [DBG] [] [] Thread sleep
+[2019-02-06 05:03:10.612 +02:00] [DBG] [] [] Finds the element
+[2019-02-06 05:03:10.612 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 05:03:10.623 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 05:03:11.122 +02:00] [DBG] [] [] Thread sleep
+[2019-02-06 05:03:11.724 +02:00] [DBG] [] [] Finds the element
+[2019-02-06 05:03:11.725 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 05:03:11.737 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 05:03:12.026 +02:00] [DBG] [] [] Select dropdown item by three letters
+[2019-02-06 05:03:12.026 +02:00] [DBG] [] [] Click the specified element
+[2019-02-06 05:03:12.026 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 05:03:12.560 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 05:03:12.595 +02:00] [DBG] [] [] Thread sleep
+[2019-02-06 05:03:13.196 +02:00] [DBG] [] [] Finds the element
+[2019-02-06 05:03:13.197 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 05:03:13.208 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 05:03:13.794 +02:00] [DBG] [] [] Thread sleep
+[2019-02-06 05:03:14.394 +02:00] [DBG] [] [] Finds the element
+[2019-02-06 05:03:14.394 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 05:03:14.406 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 05:03:14.600 +02:00] [DBG] [] [] Finds the element
+[2019-02-06 05:03:14.600 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 05:03:14.610 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 05:03:15.585 +02:00] [DBG] [] [] Finds the element
+[2019-02-06 05:03:15.585 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 05:03:15.599 +02:00] [DBG] [] [] Waits for page to load
+[2019-02-06 05:03:15.912 +02:00] [INF] [] [] One Time Tear Down
